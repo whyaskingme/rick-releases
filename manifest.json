@@ -1,0 +1,5 @@
+{
+  "latestVersion": "0.0.0",
+  "releaseNotes": "Initial repo bootstrap. No binaries yet — push a tag (git tag v0.1.0 && git push origin v0.1.0) to the rick repo to trigger CI build, OR run scripts/release.sh locally on the host OS.",
+  "downloads": {}
+}
