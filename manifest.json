@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.5.18",
-  "releaseNotes": "Release v1.5.18",
+  "latestVersion": "1.5.19",
+  "releaseNotes": "Release v1.5.19",
   "downloads": {
-    "windows": "https://github.com/whyaskingme/rick-releases/raw/main/v1.5.18/secure-teams-windows-setup.exe",
-    "android": "https://github.com/whyaskingme/rick-releases/raw/main/v1.5.18/secure-teams-android.apk"
+    "windows": "https://github.com/whyaskingme/rick-releases/raw/main/v1.5.19/secure-teams-windows-setup.exe",
+    "android": "https://github.com/whyaskingme/rick-releases/raw/main/v1.5.19/secure-teams-android.apk"
   }
 }
